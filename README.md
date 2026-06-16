@@ -83,8 +83,8 @@ I build web apps, automation tools, and the occasional blockchain experiment.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajpreetcodes&show_icons=true&include_all_commits=true&hide_border=true&theme=radical" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpreetcodes&layout=compact&langs_count=8&hide_border=true&theme=radical" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajpreetcodes&show_icons=true&hide_border=true&theme=radical" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajpreetcodes&layout=compact&langs_count=8&hide=makefile&hide_border=true&theme=radical" alt="Top languages" />
 
 <br/>
 
@@ -94,10 +94,6 @@ I build web apps, automation tools, and the occasional blockchain experiment.
 
 <!-- Contribution heatmap: daily commit squares -->
 <img src="https://ghchart.rshah.org/ff4d9d/rajpreetcodes" alt="Contribution heatmap" width="780" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rajpreetcodes&theme=radical&no-frame=true&column=7&margin-w=8" alt="Trophies" />
 
 </div>
 
